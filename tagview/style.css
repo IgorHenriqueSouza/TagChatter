@@ -1,0 +1,45 @@
+.tag {
+position: absolute;
+height: 47px;
+left: 13.18%;
+right: 62.02%;
+top: calc(50% - 47px/2 - 309.5px);
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 47px;
+color: #626262;
+}
+
+.layout{
+position: absolute;
+left: 0%;
+right: 89.66%;
+top: 0%;
+bottom: 0%;
+background: #25272E;
+}
+.text{
+position: absolute;
+left: 15%;
+right: 0%;
+top: 32.33%;
+bottom: -2.33%;
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+color: #494949;
+}
+
+.input{
+position: absolute;
+left: 23.26%;
+right: 10.34%;
+top: 89.14%;
+bottom: 3.43%;
+background: rgba(255, 255, 255, 0.5);
+border-radius: 6px;
+}
